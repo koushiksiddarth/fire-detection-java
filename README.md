@@ -1,7 +1,7 @@
 # Fire Detection Using Java
 
-#Live Demo
-https://fire-detection-using-deep-learning.onrender.com
+#Live Demo 
+https://fire-detection-java-live.onrender.com
 
 A Java Spring Boot web application for detecting fire from uploaded images.
 
